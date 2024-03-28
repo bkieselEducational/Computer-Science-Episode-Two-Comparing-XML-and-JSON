@@ -24,7 +24,7 @@ JSON Response:</br>
 ## Practical and Technical Comparison of XML and JSON formats for Web Development:
 
 ### Practical Considerations:
-By simply looking at the 2 formats, it is obvious that JSON is not only MORE human-readable but it is also almost identical to the way that write code in an Object Oriented Way. XML does not resemble our application code at all (aside from looking similar to HTML) and will always require extra parsing steps to change it into an object representation of the data.
+By simply looking at the 2 formats, it is obvious that JSON is not only MORE human-readable but it is also almost identical to the way that we write code in an Object Oriented Way. XML does not resemble our application code at all (aside from looking similar to HTML) and will always require extra parsing steps to change it into an object representation of the data.
 
 ### Technical / Performance Comparison:
 
